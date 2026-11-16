@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivos de configuración interna de PyCharm
+.idea/
+
+# Archivos de sistema de macOS (muy útil porque usas Mac)
+.DS_Store
